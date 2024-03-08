@@ -4,6 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<button class="btn" style="width:100%"><i class="fa fa-download"></i> Download</button>
     <title>My Resume</title>
 </head>
 
@@ -62,7 +66,7 @@
             </div>
         </section>
 
-        <!-- Add more sections as needed (e.g., Certifications, Awards) -->
+        {/* <!-- Add more sections as needed (e.g., Certifications, Awards) --> */}
 
         <footer>
             <p>© 2024 ishu</p>
@@ -83,7 +87,3 @@
 </body>
 
 </html>
-<!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<!-- Full width -->
-<button class="btn" style="width:100%"><i class="fa fa-download"></i> Download</button
