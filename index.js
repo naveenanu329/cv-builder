@@ -19,8 +19,8 @@
 
 <p>Used on a button:</p>
             <t
-            <p><strong>Name:</strong> Anu</p>
-            <p>Email: Anu@example.com | Phone: (123) 456-7890 | LinkedIn: <a href="#">Anu</a></p>
+            <p><strong>Name:</strong> ishu</p>
+            <p>Email: ishu@example.com | Phone: (123) 456-7890 | LinkedIn: <a href="#">ishu</a></p>
         </header>
 
         <hr>
@@ -65,15 +65,15 @@
         <!-- Add more sections as needed (e.g., Certifications, Awards) -->
 
         <footer>
-            <p>© 2024 Anu</p>
+            <p>© 2024 ishu</p>
         </footer>
     </div>
     <section class="section">
         <h2>Personal Details:</h2>
         <div class="section-content">
-            <p><strong>Name:</strong> Anu N</p>
+            <p><strong>Name:</strong>ishu S</p>
             <p><strong>Age:</strong> 24</p>
-            <p><strong>DOB:</strong> 15.01.1998</p>
+            <p><strong>DOB:</strong> 18.02.2004</p>
             <p><strong>Address:</strong> 16/2 xxxx street,zzzz.</p>
             <p><strong>Mobile:</strong> 1234567859</p>
             <p><strong>Gender:</strong> female</p>
